@@ -78,6 +78,8 @@ To use this tool, you'll need to install the following dependencies:
 
 2. **Medical Report in PDF**:
     - A downloadable PDF containing the extracted and validated data.
+    - [Download Medical Report PDF](./Medical_Report%20(1).pdf)
+
 
 3. **Speech Summary**:
     - A voice summary of the medical report.
