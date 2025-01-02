@@ -66,27 +66,14 @@ To use this tool, you'll need to install the following dependencies:
 ## Output Examples
 
 1. **Tabular Output**:
- +----------------+----------------+
-| Parameter      | Value          |
-+================+================+
-| Patient Name   | John Doe       |
-+----------------+----------------+
-| Age            | 45             |
-+----------------+----------------+
-| Gender         | N/A            |
-+----------------+----------------+
-| Test           | N/A            |
-+----------------+----------------+
-| Glucose Level  | 120 mg/dL      |
-+----------------+----------------+
-| WBC Count      | 8500 cells/μL  |
-+----------------+----------------+
-| RBC Count      | N/A million/μL |
-+----------------+----------------+
-| Platelet Count | N/A /μL        |
-+----------------+----------------+
-| Diagnosis      | Normal         |
-+----------------+----------------+
+    ```plaintext
+    Patient Name     | John Doe
+    Age              | 35
+    Gender           | Male
+    Glucose Level    | 140 mg/dL
+    WBC Count        | 8500 cells/μL
+    Diagnosis        | Hypertension
+    ```
 
 
 2. **Medical Report in PDF**:
