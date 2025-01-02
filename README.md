@@ -66,7 +66,7 @@ To use this tool, you'll need to install the following dependencies:
 ## Output Examples
 
 1. **Tabular Output**:
-   +----------------+----------------+
+ +----------------+----------------+
 | Parameter      | Value          |
 +================+================+
 | Patient Name   | John Doe       |
@@ -87,6 +87,7 @@ To use this tool, you'll need to install the following dependencies:
 +----------------+----------------+
 | Diagnosis      | Normal         |
 +----------------+----------------+
+
 
 2. **Medical Report in PDF**:
     - A downloadable PDF containing the extracted and validated data.
